@@ -3,6 +3,12 @@ How to Fix TotalAV Not Working
 
 TotalAV is a widely-used antivirus and cybersecurity software designed to protect systems from malware, ransomware, phishing attacks, and more. However, users may sometimes encounter situations where TotalAV does not function as expected. This could include issues such as the application not opening, scanning failures, update problems, or real-time protection being disabled.
 
+.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://softwareinstaller.net/
+
 This guide outlines the most common causes of TotalAV malfunctions and provides a comprehensive list of troubleshooting steps to help you resolve these problems and restore full functionality.
 
 Common Symptoms
